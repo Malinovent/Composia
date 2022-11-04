@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6ef5dde52f329c94ca46585e3701fea2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Komika Text Tight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ccfe35b015f4f740a26bc1865a72cd7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f2995620a0e55a4dae910a054864134, type: 3}
+  m_Name: TriggerPrompt_Keyboard_Action
+  m_EditorClassIdentifier: 
+  _name: LeftCLick
+  controllerType: 0
+  _inputAssociated: _eastButton
+  _sprite: {fileID: 21300000, guid: 1049479133f07334e84afe36bbee78a3, type: 3}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9109e153a94eeeb4899bd1aaedf54374, type: 3}
+  m_Name: Progression_Exploration_Milestones
+  m_EditorClassIdentifier: 
+  _milestones:
+    _milestones:
+    - _level: Test 1
+      _milestones:
+      - _name: Etape 1
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Etape 2
+        _progressionType: 0
+        _isCompledted: 0
+    - _level: Demo
+      _milestones:
+      - _name: Has Moved At Start
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Has Completed Tutorial
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Has Collectable Noir
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Has Collectable Blanche
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Has Completed First Temple
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Has Completed Second Temple
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Has Completed Arrangement
+        _progressionType: 0
+        _isCompledted: 0
+      - _name: Has Completed Performance
+        _progressionType: 0
+        _isCompledted: 0

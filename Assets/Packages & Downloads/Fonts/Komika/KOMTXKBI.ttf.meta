@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6e8223520e0687c4dae937cece99c3a2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Komika Text Kaps
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fc1527e640722cd46b22d71c4f35e844, type: 3}
+  - {fileID: 12800000, guid: a77d8966f44337540a6188b6b0e118ef, type: 3}
+  - {fileID: 12800000, guid: 3483fe3bb07d09345ba9a78b1e9231f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

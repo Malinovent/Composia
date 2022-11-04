@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8292718689041574723
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8292718689041574735}
+  - component: {fileID: 8292718689041574734}
+  - component: {fileID: 8292718689041574732}
+  m_Layer: 0
+  m_Name: Sampleur_Wwise
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8292718689041574735
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8292718689041574723}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -25.689594, y: 33.2658, z: -31.877808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8292718689041574734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8292718689041574723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84aae34b09eee5439a9429c15937bb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  triggerList: f7e1664c
+  useOtherObject: 0
+  data:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 4cd6f90e8dccc4c4f8c6f4ca460096b9, type: 2}
+  decodeBank: 0
+  loadAsynchronous: 0
+  saveDecodedBank: 0
+  unloadTriggerList: 958ca0ea
+  bankNameInternal: 
+  valueGuidInternal: 
+--- !u!114 &8292718689041574732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8292718689041574723}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa844be4197ce64192ef89d384502d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _noteTest: A3
+  _currentInstrument:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+  _nameEvents:
+  - _name: C2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 48
+  - _name: C#2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 49
+  - _name: D2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 50
+  - _name: D#2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 51
+  - _name: E2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 52
+  - _name: F2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 53
+  - _name: F#2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 54
+  - _name: G2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 55
+  - _name: G#2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 56
+  - _name: A2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 57
+  - _name: A#2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 58
+  - _name: B2
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 59
+  - _name: C3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 60
+  - _name: C#3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 61
+  - _name: D3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 62
+  - _name: D#3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 63
+  - _name: E3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 64
+  - _name: F3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 65
+  - _name: F#3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 66
+  - _name: G3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 67
+  - _name: G#3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 68
+  - _name: A3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 69
+  - _name: A#3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 70
+  - _name: B3
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 71
+  - _name: C4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 72
+  - _name: C#4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 73
+  - _name: D4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 74
+  - _name: D#4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 75
+  - _name: E4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 76
+  - _name: F4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 77
+  - _name: F#4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 78
+  - _name: G4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 79
+  - _name: G#4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 80
+  - _name: A4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 81
+  - _name: A#4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 82
+  - _name: B4
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 83
+  - _name: C5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 84
+  - _name: C#5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 85
+  - _name: D5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 86
+  - _name: D#5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 87
+  - _name: E5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 88
+  - _name: F5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 89
+  - _name: F#5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 90
+  - _name: G5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 91
+  - _name: G#5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 92
+  - _name: A5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 93
+  - _name: A#5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 94
+  - _name: B5
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 95
+  - _name: C6
+    _event:
+      idInternal: 0
+      valueGuidInternal: 
+      WwiseObjectReference: {fileID: 11400000, guid: 3fe5cc9b5ff8d414e95624e7f6bf34f8, type: 2}
+    _eventByte: 96

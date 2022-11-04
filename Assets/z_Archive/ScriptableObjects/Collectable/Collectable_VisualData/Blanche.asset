@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7597a021eb25f66478efc5497797fb1d, type: 3}
+  m_Name: Blanche
+  m_EditorClassIdentifier: 
+  _name: Blanche
+  _sprite: {fileID: 1100677693995131930, guid: 6f64e8df12b7f8640be16b1fe970285e, type: 3}
+  _descriptiveTxt: Figure rythmique de 2 temps
+  _type: 4
